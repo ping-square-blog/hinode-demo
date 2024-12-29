@@ -13,3 +13,4 @@ actions:
     title: "Get started"
     icon: "fas book-open"
 ---
+This is my first site created with Hinode.
